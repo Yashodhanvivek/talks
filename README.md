@@ -4,12 +4,11 @@
 Technical Talks
 
 1.IoT Hardware Hacking : UART to Shell  :  https://www.youtube.com/watch?v=FMLLxljhU-c  
-
-2. IoT Hardware Hacking: SPI Hacks : https://www.youtube.com/watch?v=bghxCHidHsU&t=1608s 
-3. IoT Hardware Hacking: Att(ack)ing I2C : https://www.youtube.com/watch?v=i_HMmKIh1Nk&t=202s 
-4. IoT Hardware Hacking : Debug Hacks (JTAG and SWD) : https://www.youtube.com/watch?v=EWpaGZwmRFA 
-5. Securing your IoT Product with Security Compliance: https://www.youtube.com/watch?v=OOYsX_sVYhk&t=2587s 
-6. astrophotonics :https://www.youtube.com/watch?v=VdwRbgf0Ss0 
+2.IoT Hardware Hacking: SPI Hacks : https://www.youtube.com/watch?v=bghxCHidHsU&t=1608s 
+3.IoT Hardware Hacking: Att(ack)ing I2C : https://www.youtube.com/watch?v=i_HMmKIh1Nk&t=202s 
+4.IoT Hardware Hacking : Debug Hacks (JTAG and SWD) : https://www.youtube.com/watch?v=EWpaGZwmRFA 
+5.Securing your IoT Product with Security Compliance: https://www.youtube.com/watch?v=OOYsX_sVYhk&t=2587s 
+6.Astrophotonics :https://www.youtube.com/watch?v=VdwRbgf0Ss0 
 7.Hardware Hacking - IIT-BHU : https://www.youtube.com/watch?v=67Z4EEu6jgg 
 
 
