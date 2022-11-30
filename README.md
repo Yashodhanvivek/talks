@@ -3,7 +3,7 @@
 
 Technical Talks
 
-1.IoT Hardware Hacking : UART to Shell  :  https://www.youtube.com/watch?v=FMLLxljhU-c\
+1.IoT Hardware Hacking : UART to Shell  :  https://www.youtube.com/watch?v=FMLLxljhU-c //
 2. IoT Hardware Hacking: SPI Hacks : https://www.youtube.com/watch?v=bghxCHidHsU&t=1608s /
 3. IoT Hardware Hacking: Att(ack)ing I2C : https://www.youtube.com/watch?v=i_HMmKIh1Nk&t=202s /
 4. IoT Hardware Hacking : Debug Hacks (JTAG and SWD) : https://www.youtube.com/watch?v=EWpaGZwmRFA /
